@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PeselChecker</string>
+    <string name="pesel_label">Pesel</string>
+    <string name="dateOfBirth_label">Date of birth: </string>
+    <string name="sex_label">Sex: </string>
+    <string name="checksum_label">Checksum: </string>
+    <string name="pesel_empty_state">Enter PESEL number</string>
+    <string name="pesel_short_state">PESEL number is too short. PESEL should be 11 digits</string>
+    <string name="pesel_valid_state">The length of PESEL number is valid</string>
+    <string name="dateOfBirth_invalid">Invalid</string>
+    <string name="checksum_valid">Valid</string>
+    <string name="checksum_invalid">Invalid</string>
+</resources>
